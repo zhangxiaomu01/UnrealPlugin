@@ -3,4 +3,4 @@
 
   ID | Name | Description | Engine version
  ---- | ----------- | -------- | ------
-01|RTReflection| A prototyping plugin which integrates the main reflection system into a central panel | 5.2
+01|RTReflection| A prototyping plugin which integrates the main reflection system into a central panel. Good for Slate UI reference. | 5.2
